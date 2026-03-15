@@ -1,0 +1,16 @@
+{
+  "upstream": {
+    "base_url": "https://openrouter.ai/api/v1",
+    "api_key": "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"
+  },
+  "compressor": {
+    "model": "qwen/qwen3.5-27b",
+    "threshold_tokens": 4096,
+    "keep_recent_rounds": 2,
+    "summary_max_tokens": 1228
+  },
+  "gateway": {
+    "port": 8404,
+    "host": "127.0.0.1"
+  }
+}

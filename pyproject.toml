@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "smart-token-gateway"
+version = "0.1.0"
+description = "渐进式 LLM 对话历史压缩代理"
+readme = "DEVELOPMENT_GUIDE.md"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx>=0.27",
+    "uvicorn>=0.30",
+    "starlette>=0.38",
+    "tiktoken>=0.7",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0",
+    "pytest-asyncio>=0.23",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["stg*"]

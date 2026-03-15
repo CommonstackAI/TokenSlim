@@ -1,0 +1,254 @@
+[
+  {
+    "model": "opus-4.6",
+    "tokens": 2000,
+    "cost_without_stg": 0.105,
+    "cost_with_stg": 0.105,
+    "cost_saved": 0.0,
+    "cost_saved_percent": 0.0,
+    "roi": 0
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 4096,
+    "cost_without_stg": 0.13644,
+    "cost_with_stg": 0.09954479999999999,
+    "cost_saved": 0.03689520000000002,
+    "cost_saved_percent": 27.041336851363244,
+    "roi": 62.55544252288915
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 8000,
+    "cost_without_stg": 0.195,
+    "cost_with_stg": 0.122952,
+    "cost_saved": 0.072048,
+    "cost_saved_percent": 36.94769230769231,
+    "roi": 62.541666666666664
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 16000,
+    "cost_without_stg": 0.315,
+    "cost_with_stg": 0.170904,
+    "cost_saved": 0.144096,
+    "cost_saved_percent": 45.7447619047619,
+    "roi": 62.541666666666664
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 32000,
+    "cost_without_stg": 0.5549999999999999,
+    "cost_with_stg": 0.266808,
+    "cost_saved": 0.28819199999999995,
+    "cost_saved_percent": 51.92648648648648,
+    "roi": 62.54166666666666
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 64000,
+    "cost_without_stg": 1.035,
+    "cost_with_stg": 0.458616,
+    "cost_saved": 0.5763839999999999,
+    "cost_saved_percent": 55.68927536231884,
+    "roi": 62.54166666666666
+  },
+  {
+    "model": "opus-4.6",
+    "tokens": 128000,
+    "cost_without_stg": 1.9949999999999999,
+    "cost_with_stg": 0.842232,
+    "cost_saved": 1.152768,
+    "cost_saved_percent": 57.78285714285715,
+    "roi": 62.541666666666664
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 2000,
+    "cost_without_stg": 0.020999999999999998,
+    "cost_with_stg": 0.020999999999999998,
+    "cost_saved": 0.0,
+    "cost_saved_percent": 0.0,
+    "roi": 0
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 4096,
+    "cost_without_stg": 0.027288,
+    "cost_with_stg": 0.020380799999999998,
+    "cost_saved": 0.006907200000000002,
+    "cost_saved_percent": 25.312225153913815,
+    "roi": 11.711088504577829
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 8000,
+    "cost_without_stg": 0.039,
+    "cost_with_stg": 0.025512,
+    "cost_saved": 0.013488,
+    "cost_saved_percent": 34.58461538461538,
+    "roi": 11.708333333333332
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 16000,
+    "cost_without_stg": 0.063,
+    "cost_with_stg": 0.036024,
+    "cost_saved": 0.026976,
+    "cost_saved_percent": 42.819047619047616,
+    "roi": 11.708333333333332
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 32000,
+    "cost_without_stg": 0.111,
+    "cost_with_stg": 0.057048,
+    "cost_saved": 0.053952,
+    "cost_saved_percent": 48.605405405405406,
+    "roi": 11.708333333333332
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 64000,
+    "cost_without_stg": 0.20700000000000002,
+    "cost_with_stg": 0.099096,
+    "cost_saved": 0.10790400000000001,
+    "cost_saved_percent": 52.127536231884065,
+    "roi": 11.708333333333334
+  },
+  {
+    "model": "sonnet-4",
+    "tokens": 128000,
+    "cost_without_stg": 0.399,
+    "cost_with_stg": 0.18319200000000002,
+    "cost_saved": 0.215808,
+    "cost_saved_percent": 54.087218045112785,
+    "roi": 11.708333333333332
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 2000,
+    "cost_without_stg": 0.05,
+    "cost_with_stg": 0.05,
+    "cost_saved": 0.0,
+    "cost_saved_percent": 0.0,
+    "roi": 0
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 4096,
+    "cost_without_stg": 0.07096,
+    "cost_with_stg": 0.0465598,
+    "cost_saved": 0.024400199999999997,
+    "cost_saved_percent": 34.385851183765496,
+    "roi": 41.37029501525941
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 8000,
+    "cost_without_stg": 0.11,
+    "cost_with_stg": 0.062352,
+    "cost_saved": 0.047648,
+    "cost_saved_percent": 43.31636363636363,
+    "roi": 41.361111111111114
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 16000,
+    "cost_without_stg": 0.19,
+    "cost_with_stg": 0.094704,
+    "cost_saved": 0.095296,
+    "cost_saved_percent": 50.15578947368421,
+    "roi": 41.361111111111114
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 32000,
+    "cost_without_stg": 0.35,
+    "cost_with_stg": 0.159408,
+    "cost_saved": 0.19059199999999998,
+    "cost_saved_percent": 54.454857142857136,
+    "roi": 41.36111111111111
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 64000,
+    "cost_without_stg": 0.67,
+    "cost_with_stg": 0.28881599999999996,
+    "cost_saved": 0.3811840000000001,
+    "cost_saved_percent": 56.89313432835822,
+    "roi": 41.36111111111112
+  },
+  {
+    "model": "gpt-4",
+    "tokens": 128000,
+    "cost_without_stg": 1.31,
+    "cost_with_stg": 0.547632,
+    "cost_saved": 0.762368,
+    "cost_saved_percent": 58.19603053435115,
+    "roi": 41.361111111111114
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 2000,
+    "cost_without_stg": 0.0029999999999999996,
+    "cost_with_stg": 0.0029999999999999996,
+    "cost_saved": 0.0,
+    "cost_saved_percent": 0.0,
+    "roi": 0
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 4096,
+    "cost_without_stg": 0.0036287999999999997,
+    "cost_with_stg": 0.0034688999999999996,
+    "cost_saved": 0.00015990000000000015,
+    "cost_saved_percent": 4.406415343915348,
+    "roi": 0.2711088504577826
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 8000,
+    "cost_without_stg": 0.0048,
+    "cost_with_stg": 0.004488,
+    "cost_saved": 0.0003119999999999998,
+    "cost_saved_percent": 6.4999999999999964,
+    "roi": 0.27083333333333315
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 16000,
+    "cost_without_stg": 0.0072,
+    "cost_with_stg": 0.006576,
+    "cost_saved": 0.0006239999999999996,
+    "cost_saved_percent": 8.66666666666666,
+    "roi": 0.27083333333333315
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 32000,
+    "cost_without_stg": 0.011999999999999999,
+    "cost_with_stg": 0.010752,
+    "cost_saved": 0.0012479999999999991,
+    "cost_saved_percent": 10.399999999999993,
+    "roi": 0.27083333333333315
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 64000,
+    "cost_without_stg": 0.021599999999999998,
+    "cost_with_stg": 0.019104,
+    "cost_saved": 0.0024959999999999982,
+    "cost_saved_percent": 11.555555555555548,
+    "roi": 0.27083333333333315
+  },
+  {
+    "model": "qwen3.5-27b",
+    "tokens": 128000,
+    "cost_without_stg": 0.040799999999999996,
+    "cost_with_stg": 0.035808,
+    "cost_saved": 0.0049919999999999964,
+    "cost_saved_percent": 12.23529411764705,
+    "roi": 0.27083333333333315
+  }
+]
